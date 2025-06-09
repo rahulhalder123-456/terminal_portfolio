@@ -3,6 +3,6 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: '/Terminal-Portfolio/', // ← updated this line
+  base: '/terminal_portfolio/', // ← updated this line
   plugins: [react()],
 });

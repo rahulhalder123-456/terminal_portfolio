@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://rahulhalder123-456.github.io/Terminal-Portfolio/",
+  "homepage": "https://rahulhalder123-456.github.io/terminal_portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
