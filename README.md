@@ -3,15 +3,13 @@
 Welcome to my interactive terminal-style portfolio!  
 Experience my skills, projects, and personality through a command-line interface.
 
-![banner](https://capsule-render.vercel.app/api?type=terminal&text=Welcome%20to%20Rahul's%20Terminal&fontColor=00ff00&fontSize=22&height=100&animation=fadeIn)
+![hacker-banner](https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&text=💀%20Rahul%20-%20Hacker%20Terminal%20💀&fontColor=00ff00&fontSize=30&height=120&animation=fadeIn)
 
 ---
 
 ## 🚀 Live Demo
 
-![Terminal Portfolio Demo](public/assets/Screencastfrom2025-06-0909-05-21-ezgif.com-video-to-gif-converter.webm)
-
-🌐 **[Visit Portfolio](https://rahulhalder123-456.github.io/terminal_project/)**
+🌐 **[Visit Portfolio](https://rahulhalder123-456.github.io/terminal_portfolio/)**
 
 ---
 
